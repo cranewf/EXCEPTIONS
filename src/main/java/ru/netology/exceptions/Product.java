@@ -1,3 +1,4 @@
+package ru.netology.exceptions;
 import java.util.Objects;
 
 public class Product {
